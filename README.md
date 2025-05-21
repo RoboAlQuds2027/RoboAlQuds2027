@@ -1,5 +1,5 @@
 ## Hi there 👋
-### you can call me Moud, i will try to show my progress in the robotic field by the umcoming days, you can say about me Junior Robotics Engineer.
+### you can call me Moud🙂, i will try to show my progress in the robotic field by the upcoming days, you can say about me Junior Robotics Engineer🦾.
 
 <!--
 **RoboAlQuds2027/RoboAlQuds2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
