@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on building autonmous rover with ros2.
 - 🌱 I’m currently learning AI from fastai academy
 - 📈 I’m currently doing problem solving on C++ to boost my coding skills
-- 🤔 I’m looking for help with road map for may robotics journey 
+- 🤔 I’m looking for help with road map for my robotics journey 
 <!--
 **RoboAlQuds2027/RoboAlQuds2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
